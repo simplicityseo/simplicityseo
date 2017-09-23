@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PPC &#8211; Simplicity SEO</title>
+	<atom:link href="http://localhost/wordpress2/tag/ppc/feed/" rel="self" type="application/rss+xml" />
+	<link>http://simplicityseo.co.uk</link>
+	<description>Helping you find your crowd</description>
+	<lastBuildDate>Wed, 20 Sep 2017 21:37:26 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.2</generator>
+
+<image>
+	<url>http://simplicityseo.co.uk/wp-content/uploads/2017/08/cropped-simplicityseo-1-32x32.png</url>
+	<title>PPC &#8211; Simplicity SEO</title>
+	<link>http://simplicityseo.co.uk</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Making your epic online marketing strategy</title>
+		<link>http://simplicityseo.co.uk/making-your-epic-online-marketing-strategy/</link>
+		<comments>http://simplicityseo.co.uk/making-your-epic-online-marketing-strategy/#respond</comments>
+		<pubDate>Mon, 28 Aug 2017 02:06:23 +0000</pubDate>
+		<dc:creator><![CDATA[Peter Griffiths]]></dc:creator>
+				<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Marketing Strategy]]></category>
+		<category><![CDATA[PPC]]></category>
+		<category><![CDATA[SEO]]></category>
+		<category><![CDATA[SMM]]></category>
+
+		<guid isPermaLink="false">http://simplicityseo.co.uk/?p=102</guid>
+		<description><![CDATA[If you don’t have a solid online marketing strategy for your business yet, don’t worry. You’re not alone. According to Smart Insights, 47% of businesses don’t have a set plan or strategy BUT…. How much business are you losing as a result? Or the question that you want answered… How much more business will you [&#8230;]]]></description>
+		<wfw:commentRss>http://simplicityseo.co.uk/making-your-epic-online-marketing-strategy/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
