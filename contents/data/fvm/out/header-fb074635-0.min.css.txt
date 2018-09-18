@@ -1,0 +1,12 @@
+PROCESSED on Tue, 18 Sep 2018 00:17:02 +0000
+/contents/lib/widget-google-reviews/static/css/google-review.css --- Debug: [grw_css] File was opened from /var/www/html/contents/lib/widget-google-reviews/static/css/google-review.css ---
+/contents/ui/theme/assets/shared/fonts/fa/css/fontawesome-all.min.css --- Debug: [customizr-fa] File was opened from /var/www/html/contents/ui/theme/assets/shared/fonts/fa/css/fontawesome-all.min.css ---
+/contents/lib/contact-form-7-style/css/frontend.css --- Debug: [cf7-style-frontend-style] File was opened from /var/www/html/contents/lib/contact-form-7-style/css/frontend.css ---
+/contents/lib/contact-form-7-style/css/responsive.css --- Debug: [cf7-style-responsive-style] File was opened from /var/www/html/contents/lib/contact-form-7-style/css/responsive.css ---
+/contents/lib/contact-form-7/includes/css/styles.css --- Debug: [contact-form-7] File was opened from /var/www/html/contents/lib/contact-form-7/includes/css/styles.css ---
+/contents/lib/gdpr/assets/css/gdpr-public.css --- Debug: [gdpr] File was opened from /var/www/html/contents/lib/gdpr/assets/css/gdpr-public.css ---
+/contents/lib/go_pricing/assets/css/go_pricing_styles.css --- Debug: [go-pricing-styles] File was opened from /var/www/html/contents/lib/go_pricing/assets/css/go_pricing_styles.css ---
+/contents/ui/theme/assets/front/css/style.min.css --- Debug: [customizr-main] File was opened from /var/www/html/contents/ui/theme/assets/front/css/style.min.css ---
+/contents/ui/theme/assets/front/css/style-modular-scale.min.css --- Debug: [customizr-ms-respond] File was opened from /var/www/html/contents/ui/theme/assets/front/css/style-modular-scale.min.css ---
+/contents/lib/mailchimp-top-bar/assets/css/bar.min.css --- Debug: [mailchimp-top-bar] File was opened from /var/www/html/contents/lib/mailchimp-top-bar/assets/css/bar.min.css ---
+PROCESSED from swanseaseo/small-business-seo/

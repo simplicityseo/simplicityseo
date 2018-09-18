@@ -1,0 +1,2 @@
+jQuery(document).ready(function(){"use strict";if(typeof jQuery.wp==='object'&&typeof jQuery.wp.wpColorPicker==='function'){jQuery('#slide_color_field').wpColorPicker();}
+else{if(jQuery('#slide_color_field').length){jQuery('#colorpicker').farbtastic('#slide_color_field');}}});
